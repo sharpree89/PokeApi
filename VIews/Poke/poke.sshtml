@@ -6,11 +6,11 @@
          <title>Hello</title>
     </head>
     <body>
+        <h2>PokeApi: Stats for Pokemon #7</h2>
         <h3>Name: @ViewBag.name</h3>
+        <h3>Species: @ViewBag.species</h3>
         <h3>Weight: @ViewBag.weight</h3>
         <h3>Height: @ViewBag.height</h3>
-        <h3>Base Experience: @ViewBag.exp</h3>
-        <h3>Species: @ViewBag.species</h3>
-    
+        <h3>Base Exp: @ViewBag.exp</h3>
     </body>
 </html>
