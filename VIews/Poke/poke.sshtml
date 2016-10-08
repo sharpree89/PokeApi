@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css">
+         <meta charset="UTF-8">
+         <title>Hello</title>
+    </head>
+    <body>
+        <h3>Name: @ViewBag.name</h3>
+        <h3>Weight: @ViewBag.weight</h3>
+        <h3>Height: @ViewBag.height</h3>
+        <h3>Base Experience: @ViewBag.exp</h3>
+        <h3>Species: @ViewBag.species</h3>
+    
+    </body>
+</html>
