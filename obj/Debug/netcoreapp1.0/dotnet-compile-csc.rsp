@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"/Users/preeyasharma/Desktop/C#/PokeInfo/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs"
--out:"/Users/preeyasharma/Desktop/C#/PokeInfo/bin/Debug/netcoreapp1.0/PokeInfo.dll"
+"/Users/preeyasharma/Desktop/C#/nancyfx/PokeInfo/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs"
+-out:"/Users/preeyasharma/Desktop/C#/nancyfx/PokeInfo/bin/Debug/netcoreapp1.0/PokeInfo.dll"
 -r:"/Users/preeyasharma/.nuget/packages/FSharp.Core/4.0.1.7-alpha/lib/netstandard1.6/FSharp.Core.dll"
 -r:"/Users/preeyasharma/.nuget/packages/Microsoft.AspNetCore.Hosting/1.0.0/lib/netstandard1.3/Microsoft.AspNetCore.Hosting.dll"
 -r:"/Users/preeyasharma/.nuget/packages/Microsoft.AspNetCore.Hosting.Abstractions/1.0.0/lib/netstandard1.3/Microsoft.AspNetCore.Hosting.Abstractions.dll"
@@ -130,8 +130,8 @@
 -r:"/Users/preeyasharma/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll"
 -r:"/Users/preeyasharma/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll"
 -r:"/Users/preeyasharma/.nuget/packages/System.Xml.XmlSerializer/4.0.11/ref/netstandard1.3/System.Xml.XmlSerializer.dll"
-"/Users/preeyasharma/Desktop/C#/PokeInfo/ApiCaller.cs"
-"/Users/preeyasharma/Desktop/C#/PokeInfo/Bootstrapper.cs"
-"/Users/preeyasharma/Desktop/C#/PokeInfo/PokeModule.cs"
-"/Users/preeyasharma/Desktop/C#/PokeInfo/Program.cs"
-"/Users/preeyasharma/Desktop/C#/PokeInfo/Startup.cs"
+"/Users/preeyasharma/Desktop/C#/nancyfx/PokeInfo/ApiCaller.cs"
+"/Users/preeyasharma/Desktop/C#/nancyfx/PokeInfo/Bootstrapper.cs"
+"/Users/preeyasharma/Desktop/C#/nancyfx/PokeInfo/PokeModule.cs"
+"/Users/preeyasharma/Desktop/C#/nancyfx/PokeInfo/Program.cs"
+"/Users/preeyasharma/Desktop/C#/nancyfx/PokeInfo/Startup.cs"

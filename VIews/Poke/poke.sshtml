@@ -5,12 +5,16 @@
          <meta charset="UTF-8">
          <title>Hello</title>
     </head>
-    <body>
-        <h2>PokeApi: Stats for Pokemon #7</h2>
-        <h3>Name: @ViewBag.name</h3>
-        <h3>Species: @ViewBag.species</h3>
-        <h3>Weight: @ViewBag.weight</h3>
-        <h3>Height: @ViewBag.height</h3>
-        <h3>Base Exp: @ViewBag.exp</h3>
+    <body style="height: 475px; width: 500px; border: 1px solid grey; margin-top: 100px; margin-left: 475px; padding: 10px;">
+        <center>
+            <h4>Welcome to the Pokedex</h4>
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png">
+            <h5>Name: @ViewBag.name</h5>
+            <h5>Weight: @ViewBag.weight</h5>
+            <h5>Height: @ViewBag.height</h5>
+            <h5>Base Exp: @ViewBag.exp</h5>
+            <h5>Try another URL to view a different Pokemon!</h5>
+            <i><h6>This Pokedex is using http://www.pokeapi.co</h6></i>
+        </center>
     </body>
 </html>
