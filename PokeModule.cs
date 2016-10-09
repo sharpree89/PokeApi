@@ -13,6 +13,7 @@ namespace PokeInfo
             Get("/{id}", async args =>   
             {
                 string name = "";
+                // object sprites = "";
                 long weight = 0;
                 long height = 0;
                 long exp = 0;
@@ -30,6 +31,7 @@ namespace PokeInfo
                 await WebRequest.SendRequest(url, new Action<Dictionary<string, object>>( JsonResponse =>
                     {
                         name = (string)JsonResponse["name"];
+                        // sprites = (object)JsonResponse["sprites"];
                         weight = (long)JsonResponse["weight"];
                         height = (long)JsonResponse["height"];
                         exp = (long)JsonResponse["base_experience"];
